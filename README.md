@@ -2,8 +2,13 @@
   <img src="./assets/readme-banner.svg" width="100%" alt="商业计划书与路演 PPT 素材库" />
 </div>
 
+<h1 align="center">商业计划书 &amp; 路演 PPT 素材库</h1>
+
+<p align="center">
+  <strong>把复杂项目，讲成一个清晰、可信、打动人的故事。</strong>
+</p>
+
 <div align="center">
-  <br />
   <a href="https://github.com/KarlHeinrich-jpg/Business-Plan-and-PPT/stargazers"><img src="https://img.shields.io/github/stars/KarlHeinrich-jpg/Business-Plan-and-PPT?style=flat-square&color=0ea5e9" alt="GitHub stars" /></a>
   <a href="https://github.com/KarlHeinrich-jpg/Business-Plan-and-PPT/commits/main"><img src="https://img.shields.io/github/last-commit/KarlHeinrich-jpg/Business-Plan-and-PPT?style=flat-square&color=2563eb" alt="Last commit" /></a>
   <img src="https://img.shields.io/github/repo-size/KarlHeinrich-jpg/Business-Plan-and-PPT?style=flat-square&color=0891b2" alt="Repository size" />
@@ -18,6 +23,7 @@
 
 <p align="center">
   <a href="#-资源概览">资源概览</a> ·
+  <a href="#-推荐拆解路径">推荐路径</a> ·
   <a href="#-完整案例">完整案例</a> ·
   <a href="#-可编辑项目源文件">可编辑源文件</a> ·
   <a href="#-ppt-设计模板">PPT 模板</a> ·
@@ -35,6 +41,21 @@
 | 可编辑项目源文件 | **4 份** | 2 份 `.pptx` 演示稿与 2 份 `.docx` 计划书，可直接拆解学习 |
 | PPT 设计模板 | **3 套** | 科技蓝、材料创业、蓝白医疗等不同视觉方向 |
 | 涵盖主题 | **AI × 多领域** | 遥感解译、智慧文旅、亲子研学、地貌监测等方向 |
+
+## 🧭 推荐拆解路径
+
+```mermaid
+flowchart LR
+    A["01 · 阅读完整案例"] --> B["02 · 提炼叙事主线"]
+    B --> C["03 · 选择可编辑源稿"]
+    C --> D["04 · 统一视觉语言"]
+    D --> E["05 · 校验数据并演练"]
+
+    classDef step fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e,stroke-width:1.5px;
+    class A,B,C,D,E step;
+```
+
+先理解案例为什么成立，再复用它的表达方法。最终稿应当来自你自己的真实调研、数据论证与项目判断，而不是简单替换模板文字。
 
 ## 🖼️ 完整案例
 
